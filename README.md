@@ -28,15 +28,19 @@ Apache POI(4.1.2)
 # Getting started with:
 1.Clone the repository:
 git clone https://github.com/manisha0112/Testing_Assignment
+
 2.Navigte to project:
   cd C:\Manisha_Assignment\Testing_Assignment
+
 3.Installed dependency:
   pom.xml
 
 # Running Tests
 1.Run tests in different browsers:
 [1]Chrome
+
 [2]Edge
+
 [3]Firefox
 
 # Project structure
@@ -48,8 +52,11 @@ This package includes launch the browser,loading properties file
 This package includes application URL,valid credentials and browser
 
 3.Resource:
+
 4.TestData:
+
 5.Utilities:
+
 6.Test Package:
 
 
