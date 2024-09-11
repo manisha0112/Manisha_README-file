@@ -41,4 +41,9 @@ This package includes launch the browser,loading properties file
 2.Config:
 This package includes application URL,valid credentials and browser
 
+3.Resource:
+4.TestData
+5.Utilities
+6.Test Package
+
 
