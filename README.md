@@ -35,6 +35,7 @@ git clone https://github.com/manisha0112/Testing_Assignment
 .Firefox
 
 # Project structure
+
 1.Base:
 This package includes launch the browser,loading properties file
 
@@ -42,8 +43,8 @@ This package includes launch the browser,loading properties file
 This package includes application URL,valid credentials and browser
 
 3.Resource:
-4.TestData
-5.Utilities
-6.Test Package
+4.TestData:
+5.Utilities:
+6.Test Package:
 
 
