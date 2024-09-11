@@ -3,13 +3,13 @@
 # Project Description:
 This hybrid framework combines elements of both Data-Driven and Keyword-Driven frameworks 
 to provide flexible approach to test automation.
-
+|.|.|
 # Prerequisites:
 Java version(11)
 Selenium version(4.11.0)
 testNG(7.8.0)
 Apache POI(4.1.2)
-
+|.|.|
 # Features:
 1.Java – It uses Java programming language.
 2.TestNG – It uses TestNG as a testing framework
